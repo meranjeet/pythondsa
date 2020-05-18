@@ -1,0 +1,50 @@
+python pairproduct.py <inputpair.txt
+python input_test.py <inputpair.txt
+python input_test.py 
+python input_test.py  1 2
+cat inputpair.txt
+more inputpair.txt
+python pairproduct.py <inputpair.txt
+more inputpair.txt
+python pairproduct.py
+python pairproduct.py <inputpair.txt
+more inputpair.txt
+python pairproduct.py
+more inputpair.txt
+python pairproduct.py <inputpair.txt
+python pairproduct.py
+python pairproduct.py <inputpair.txt
+python randomlist.py
+python randomlist.py 4
+python randomlist.py 4>inputpair.txt
+python randomlist.py 4 > inputpair.txt
+more inputpair.txt
+python pairproduct.py <inputpair.txt
+python pairproduct_1.py
+python pairproduct_1.py <inputpair.txt
+python randomlist.py 20 > inputpair.txt
+python pairproduct_1.py <inputpair.txt
+python randomlist.py 100 > inputpair.txt
+python pairproduct_1.py <inputpair.txt
+python pairproduct_1.py <inputpair.txt >test.xlsx
+python pairproduct_1.py <inputpair.txt >test.csv
+python randomlist.py 10 > inputpair.txt
+python unit_test.py 2 8
+python unit_test.py 1 2
+python unit_test.py 2 8
+echo 1
+echo 1 >1.txt
+echo 2 >1.txt
+echo 2 >>1.txt
+echo 3 >>1.txt
+python unit_test.py 5 100
+python unit_test.py 10 300
+1.txt > 2.txt
+more 1.txt > 2.txt
+python unit_test.py 10 300
+python unit_test.py 10 400
+python srt.py < New Text Document.txt
+python srt.py < srt.txt
+python pairproduct_1.py 
+history
+doskey /HISTORY > history.txt
